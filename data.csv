@@ -1,4 +1,4 @@
-partner;App;Type;id;Weight
+partner;app;Type;id;Weight
 Atos;App A;Undirected;0;1
 Atos;App B;Undirected;1;1
 Atos;App C;Undirected;2;1
