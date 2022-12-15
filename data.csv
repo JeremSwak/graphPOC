@@ -1,0 +1,36 @@
+partner;App;Type;id;Weight
+Atos;App A;Undirected;0;1
+Atos;App B;Undirected;1;1
+Atos;App C;Undirected;2;1
+Google;App A;Undirected;3;1
+Google;App B;Undirected;4;1
+Google;App D;Undirected;5;1
+Google;App E;Undirected;6;1
+Google;App F;Undirected;7;1
+Facebook;App A;Undirected;8;1
+Facebook;App E;Undirected;9;1
+Facebook;App G;Undirected;10;1
+Amazon;App A;Undirected;11;1
+Amazon;App B;Undirected;12;1
+Amazon;App G;Undirected;13;1
+Amazon;App H;Undirected;14;1
+Microsoft;App A;Undirected;15;1
+Microsoft;App G;Undirected;16;1
+Microsoft;App I;Undirected;17;1
+Samsung;App A;Undirected;18;1
+Samsung;App C;Undirected;19;1
+BNP;App A;Undirected;20;1
+BNP;App J;Undirected;21;1
+Cap gemini;App A;Undirected;22;1
+Cap gemini;App D;Undirected;23;1
+Tesla;App A;Undirected;24;1
+Tesla;App E;Undirected;25;1
+BMW;App A;Undirected;26;1
+BMW;App I;Undirected;27;1
+Ikea;App J;Undirected;28;1
+Ikea;App B;Undirected;29;1
+Apple;App A;Undirected;30;1
+Apple;App B;Undirected;31;1
+Apple;App C;Undirected;32;1
+Apple;App D;Undirected;33;1
+Apple;App E;Undirected;34;1
